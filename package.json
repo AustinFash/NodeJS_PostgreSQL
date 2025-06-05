@@ -1,5 +1,5 @@
 {
-  "name": "express_ejs_boilerplate",
+  "name": "nodejs_postgresql",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
